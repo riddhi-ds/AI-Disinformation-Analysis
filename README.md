@@ -13,10 +13,15 @@ This project explores how AI techniques can be used to detect and analyze disinf
 Fake news is not just incorrect information—it can have serious real-world consequences:
 
 🗳️ Political influence: Misleading news can change voting behavior and public opinion
+
 🧠 Public confusion: People may struggle to distinguish real vs false information
+
 🏥 Health risks: During crises (like COVID-19), misinformation can spread harmful practices
+
 🌐 Social division: Fake narratives can increase fear, hatred, or misunderstanding between groups
+
 📉 Trust erosion: Reduces trust in media, institutions, and verified sources
+
 
 👉 This makes disinformation detection an important application of Data Science and AI.
 
@@ -28,6 +33,8 @@ Analyze text data to identify patterns of fake vs real news
 Understand linguistic differences in disinformation
 Explore how AI can assist in misinformation detection
 Gain insights into how fake news spreads and behaves
+
+
 🧠 Key Insight (Story-Based)
 
 The analysis shows that disinformation is often:
