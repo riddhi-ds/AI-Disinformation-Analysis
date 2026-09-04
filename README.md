@@ -25,7 +25,7 @@ Fake news is not just incorrect information—it can have serious real-world con
 
 👉 This makes disinformation detection an important application of Data Science and AI.
 
-🎯 Project Objective
+🎯 Objective
 
 The goal of this project is to:
 
